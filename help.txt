@@ -1,0 +1,7 @@
+git status - Список изменений.
+git add . - Добавить всё.
+git commit - Сохранить версию.
+git log - История изменений.
+git log -n - Истроия последних n изменений.
+git remote add "name progect" https://github.com/.... - Создание подключения к репозиторию.
+git push -u crypt master - Загрузка в удалённый репозиторий.
